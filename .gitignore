@@ -3,3 +3,4 @@ __pycache__/
 *.h5
 *.gz
 .DS_Store
+Report.md
